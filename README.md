@@ -1,13 +1,13 @@
 # Welcome
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/omsamurai/omsamurai/blob/main/assets/gifs/intro.gif">
+<img height="300" width="700" alt="GIF" align="center" src="https://github.com/omsamurai/omsamurai/blob/main/assets/gifs/intro.gif">
 </div>
 
 # 💬 About Me  :
 
 ### I'm Om, 20 years old.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/omsamurai/omsamurai/blob/main/assets/gifs/cat_typing.gif">
+<img height="400" width="500" alt="GIF" align="right" src="https://github.com/omsamurai/omsamurai/blob/main/assets/gifs/cat_typing.gif">
 
 ### - Learning :
 - 👨🏻‍💻 Backend Development
