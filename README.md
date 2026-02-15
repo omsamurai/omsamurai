@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Welcome 
 
-<!--
-**omsamurai/omsamurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💬 About Me  :
 
-Here are some ideas to get you started:
+### I'm Om, 20 years old.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### - Learning :
+- ✨ Backend Development
+- ✨ Cloud Computing
+
+### - Hobbies : 
+- ✨ Watching Anime
+- ✨ Traveling
+
+</br>
+</br>
+
+# Languages & Tools 👨‍💻 🛠:
+
+
+# Contact Me :
+
+<p>
+ </br>
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+</br>
+</br>
+</br>
+</a>
+
+*************
