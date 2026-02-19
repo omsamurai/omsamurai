@@ -20,7 +20,6 @@
 - 🎮 Gaming
 
 </br>
-</br>
 
 # 👨‍💻 Languages & Tools:
 </br>
