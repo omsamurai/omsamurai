@@ -1,4 +1,4 @@
-# Welcome
+# 👋🏻 Welcome
 <div align="center">
 <img height="250" width="600" alt="GIF" align="center" src="https://github.com/omsamurai/omsamurai/blob/main/assets/gifs/intro.gif">
 </div>
@@ -7,7 +7,7 @@
 
 ### I'm Om, 20 years old.
 
-<img height="300" width="500" alt="GIF" align="right" src="https://github.com/omsamurai/omsamurai/blob/main/assets/gifs/cat_typing.gif">
+<img height="250" width="500" alt="GIF" align="right" src="https://github.com/omsamurai/omsamurai/blob/main/assets/gifs/cat_typing.gif">
 
 ### - Learning :
 - 👨🏻‍💻 Backend Development
@@ -22,7 +22,7 @@
 </br>
 </br>
 
-# Languages & Tools 👨‍💻 🛠:
+# 👨‍💻 Languages & Tools:
 </br>
 
 <p align="center">
@@ -35,7 +35,7 @@
 </p>
 </br>
 
-# Contact Me :
+# 💬 Contact Me :
 Feel free to contact me 😉.
 
 <a href="mailto:ommanevibes@gmail.com">
